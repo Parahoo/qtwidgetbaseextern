@@ -12,8 +12,11 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(SOURCES
         qcheckboxswitch.h qcheckboxswitch.cpp
+         qwidgetcard.h qwidgetcard.cpp
+         qgroupboxcard.h qgroupboxcard.cpp
         qtwidgetbaseextern.qrc
 )
 
-add_library(qtwidgetbaseextern STATIC ${SOURCES} )
+add_library(qtwidgetbaseextern STATIC ${SOURCES}
+    )
 target_link_libraries(qtwidgetbaseextern Qt${QT_VERSION_MAJOR}::Widgets)

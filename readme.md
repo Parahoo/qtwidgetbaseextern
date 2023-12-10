@@ -5,3 +5,9 @@ QtWidget原生UI没有美化，这里进行常用的控件美化。
 
 ## QCheckBoxSwitch
 Switch样式的QCheckBox
+
+## QWidgetCard
+Card样式的QWidget
+
+## QGroupBoxCard
+Card样式的QGroupBox
