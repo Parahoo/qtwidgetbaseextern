@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/.DS_Store</file>
+        <file>res/images/about.png</file>
+        <file>res/images/basketball.png</file>
+        <file>res/images/camera.png</file>
+        <file>res/images/check.png</file>
+        <file>res/images/circle_black.png</file>
+        <file>res/images/circle_blue.png</file>
+        <file>res/images/close.png</file>
+        <file>res/images/closed_eye.png</file>
+        <file>res/images/copy.png</file>
+        <file>res/images/doc.png</file>
+        <file>res/images/down.png</file>
+        <file>res/images/download.png</file>
+        <file>res/images/editor.png</file>
+        <file>res/images/exercise.gif</file>
+        <file>res/images/icon.png</file>
+        <file>res/images/maximize.png</file>
+        <file>res/images/minimize.png</file>
+        <file>res/images/off.png</file>
+        <file>res/images/on.png</file>
+        <file>res/images/open_eye.png</file>
+        <file>res/images/orisize.png</file>
+        <file>res/images/plus.png</file>
+        <file>res/images/qt.png</file>
+        <file>res/images/search.png</file>
+        <file>res/images/sponsor.png</file>
+        <file>res/images/switch.png</file>
+        <file>res/images/switch_off.png</file>
+        <file>res/images/switch_on.png</file>
+        <file>res/images/up.png</file>
+        <file>res/images/up_down.png</file>
+        <file>res/qss/white/editor.qss</file>
+        <file>res/qss/white/menu.qss</file>
+        <file>res/qss/white/message_box.qss</file>
+        <file>res/qss/white/title.qss</file>
+        <file>res/qss/white/viewer.qss</file>
+        <file>res/qss/white/window_body.qss</file>
+        <file>res/qss/black/editor.qss</file>
+        <file>res/qss/black/menu.qss</file>
+        <file>res/qss/black/message_box.qss</file>
+        <file>res/qss/black/title.qss</file>
+        <file>res/qss/black/viewer.qss</file>
+        <file>res/qss/black/window_body.qss</file>
+    </qresource>
+</RCC>
